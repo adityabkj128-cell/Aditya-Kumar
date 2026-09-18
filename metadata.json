@@ -1,0 +1,6 @@
+{
+  "name": "Prompt2App",
+  "description": "A modern prompt-to-application generator featuring an interactive two-panel editor, live preview, local project management, and demo publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
